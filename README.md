@@ -1,5 +1,11 @@
-Hi, I'm Laiba 👋
-I'm a passionate Data Analyst with a focus on transforming raw data into actionable insights. Currently, I am diving deep into data analytics, SQL, statistics, and data visualization to solve real-world problems and enhance decision-making.
+# 👋 About Me
+ Data-driven Computer Science student at UBIT, University of Karachi, with a strong foundation in data analytics, data visualization, and database management. Passionate about transforming data into meaningful insights to support decision-making and business growth.
+
+Skilled in SQL, Python, Power BI, Excel, and PostgreSQL, with hands-on experience in data cleaning, analysis, and visualization. Currently enhancing expertise in DAX, statistics, and business intelligence tools to build a career in data analytics and research.
+
+Dedicated to continuous learning and leveraging analytical skills to solve real-world problems through data-driven solutions.
+ 
+ 
 
 🔍 What I do:
 
