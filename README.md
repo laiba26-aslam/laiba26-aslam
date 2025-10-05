@@ -1,23 +1,15 @@
 # 👋 About Me
- Data-driven Computer Science student at UBIT, University of Karachi, with a strong foundation in data analytics, data visualization, and database management. Passionate about transforming data into meaningful insights to support decision-making and business growth.
+ Data-driven Computer Science student at **UBIT, University of Karachi,** with a strong foundation in **data analytics, data visualization, and database management**. Passionate about transforming data into meaningful insights to support decision-making and business growth.
 
-Skilled in SQL, Python, Power BI, Excel, and PostgreSQL, with hands-on experience in data cleaning, analysis, and visualization. Currently enhancing expertise in DAX, statistics, and business intelligence tools to build a career in data analytics and research.
+Skilled in **SQL, Python, Power BI, Excel, and PostgreSQL** with hands-on experience in **data cleaning, analysis, and visualization**. Currently enhancing expertise in **DAX, statistics, and business intelligence tools** to build a career in **data analytics and research**.
 
 Dedicated to continuous learning and leveraging analytical skills to solve real-world problems through data-driven solutions.
- 
- 
 
-🔍 What I do:
-
-Work with large datasets to analyze trends, patterns, and outliers
-
-Use SQL to manage and query databases
-
-Create dynamic visualizations using tools like Power BI and Tableau
-
-Apply statistical analysis to uncover insights and support data-driven decisions
-
-Automate repetitive tasks using Python and R
+ ## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/your-handle)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/yourinvite)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
 
 💡 Current Focus:
 
